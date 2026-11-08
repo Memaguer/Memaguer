@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">Guillermo Barrientos</title>
+  <desc id="d">Senior Software Engineer. Node.js, NestJS, Angular, Ionic, SaaS and AI automation.</desc>
+  <rect width="1280" height="360" fill="#0F1417"/>
+  <rect x="980" width="300" height="360" fill="#3DDC97"/>
+  <text x="1130" y="228" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="170" font-weight="800" letter-spacing="-6" fill="#0F1417">GB</text>
+  <text x="64" y="162" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2" fill="#F1F5F2">Guillermo Barrientos</text>
+  <text x="64" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#3DDC97">Senior Software Engineer</text>
+  <text x="64" y="282" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#A7B4AE">Node.js, NestJS, Angular, Ionic. SaaS and AI automation.</text>
+</svg>
