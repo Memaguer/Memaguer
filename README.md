@@ -52,5 +52,3 @@ Senior software engineer with **9+ years** building web, mobile and backend prod
 - 🪐 [**SolarSystem**](https://github.com/Memaguer/SolarSystem): solar system simulation in C++
 - 🌳 [**Kmeans**](https://github.com/Memaguer/Kmeans) and [**DecisionTree**](https://github.com/Memaguer/DecisionTree): classic machine learning algorithms in Jupyter notebooks
 - 🔢 [**Tensorflow-ejercicios**](https://github.com/Memaguer/Tensorflow-ejercicios) and [**Reconocimiento-de-n-meros**](https://github.com/Memaguer/Reconocimiento-de-n-meros): TensorFlow exercises and handwritten digit recognition
-
-<a href="mailto:barrientos.memo@gmail.com"><img src="assets/footer.svg" alt="Let's build something together. Open to remote roles." width="100%" /></a>
