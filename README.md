@@ -12,10 +12,12 @@ Senior software engineer with **9+ years** building web, mobile and backend prod
 
 <table>
   <tr>
-    <td width="25%" valign="top"><h3>⚙️ Backend</h3>Node.js and NestJS services, APIs and integrations for SaaS products</td>
-    <td width="25%" valign="top"><h3>🖥️ Frontend</h3>Angular apps with state managed through NgRx</td>
-    <td width="25%" valign="top"><h3>📱 Mobile</h3>Hybrid apps with Ionic, plus early work in native iOS with Swift</td>
-    <td width="25%" valign="top"><h3>🤖 AI automation</h3>Workflows that put language models to work inside real products</td>
+    <td width="50%" valign="top"><h3>⚙️ Backend</h3>Node.js and NestJS services, APIs and integrations for SaaS products</td>
+    <td width="50%" valign="top"><h3>🖥️ Frontend</h3>Angular apps with state managed through NgRx</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>📱 Mobile</h3>Hybrid apps with Ionic, plus early work in native iOS with Swift</td>
+    <td width="50%" valign="top"><h3>🤖 AI automation</h3>Workflows that put language models to work inside real products</td>
   </tr>
 </table>
 
