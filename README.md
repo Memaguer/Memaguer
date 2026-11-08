@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-remote%20roles-3DDC97?style=flat-square&labelColor=1B2429" alt="Open to remote roles" />
-  <img src="https://img.shields.io/badge/Hidalgo%2C-Mexico-1B2429?style=flat-square" alt="Hidalgo, Mexico" />
+  <img src="https://img.shields.io/badge/Location-Hidalgo%2C%20Mexico-1B2429?style=flat-square&labelColor=1B2429&color=2A3338" alt="Hidalgo, Mexico" />
   <a href="https://www.linkedin.com/in/guillermo-barrientos-g/"><img src="https://img.shields.io/badge/LinkedIn-Guillermo%20Barrientos-1B2429?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:barrientos.memo@gmail.com"><img src="https://img.shields.io/badge/Email-barrientos.memo%40gmail.com-1B2429?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
