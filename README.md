@@ -9,7 +9,7 @@
 
 ## About
 
-I'm a senior software engineer with 9+ years building web, mobile and backend products. I focus on SaaS platforms and AI automation, with Node.js and NestJS on the backend and Angular and Ionic on the front. I'm open to remote roles.
+I'm a senior software engineer with 9+ years building web, mobile and backend products. I focus on SaaS platforms and AI automation, with Node.js and NestJS on the backend and Angular and Ionic on the front.
 
 - Previously at **OpenForge** (2022 to 2026), **Banco de México** (2019 to 2022) and **Alabóol Technologies** (2016 to 2019)
 - Studied at **Tecnológico de Monterrey**
