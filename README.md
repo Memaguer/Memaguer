@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Memo%20BG&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Mobile%20%26%20Web%20%C2%B7%20Mexico%20City&descSize=18&descAlignY=60" alt="Memo BG banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Memo%20BG&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20Angular%20%C2%B7%20AI%20Automation&descSize=18&descAlignY=60" alt="Memo BG banner" />
 
 <a href="https://github.com/Memaguer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Memo+%F0%9F%91%8B;I+build+mobile+%26+web+apps;TypeScript+%C2%B7+Angular+%C2%B7+Ionic+%C2%B7+Swift;Curious+about+AI+and+graphics" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Guillermo+%F0%9F%91%8B;Senior+Software+Engineer;Node.js+%C2%B7+NestJS+%C2%B7+Angular+%C2%B7+Ionic;SaaS+%26+AI+automation;Open+to+remote+roles" alt="Typing animation" />
 </a>
 
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Memaguer&label=Profile%20views&color=2c5364&style=flat)
 ![Followers](https://img.shields.io/github/followers/Memaguer?label=Followers&style=flat&color=2c5364&logo=github)
-![Location](https://img.shields.io/badge/Mexico%20City-MX-2c5364?style=flat&logo=googlemaps&logoColor=white)
-![Company](https://img.shields.io/badge/@OpenForge-2c5364?style=flat&logo=briefcase&logoColor=white)
+![Location](https://img.shields.io/badge/Hidalgo%2C%20Mexico-2c5364?style=flat&logo=googlemaps&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-remote%20roles-2ea44f?style=flat&logo=briefcase&logoColor=white)
 
 </div>
 
@@ -19,17 +19,30 @@
 
 ## 👨‍💻 About me
 
-- 🏢 Working at **OpenForge**, building mobile and web products
-- 📱 Hybrid and native mobile apps: **Ionic / Angular / NgRx** and **iOS (Swift)**
-- 🧠 I have explored **machine learning** (TensorFlow, K-means, decision trees) and **computer graphics** (OpenGL)
-- 🌎 Based in **Mexico City**, happy to chat in **English** or **Español**
-- 💬 Ask me about: state management, mobile architecture, TypeScript
+- 💼 **Senior Software Engineer** with 9+ years building web, mobile and backend products
+- 🔎 **Open to remote roles**, currently looking for my next challenge
+- 🏗️ Focused on **SaaS platforms and AI automation**, with **Node.js / NestJS** backends and **Angular / Ionic** frontends
+- 🏦 Previously at **OpenForge** (2022–2026) and **Banco de México** (2019–2022), plus full stack work at Alabóol Technologies
+- 🎓 **Tecnológico de Monterrey**
+- 🌎 Based in Hidalgo, Mexico, and happy to chat in **English** or **Español**
+- 💬 Ask me about: backend architecture, state management, hybrid mobile apps, TypeScript
+
+## 🧭 Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| Senior Software Engineer | OpenForge (remote) | Jun 2022 – Oct 2026 |
+| Software Analyst | Banco de México | Oct 2019 – May 2022 |
+| Full Stack Developer | Alabóol Technologies | Jun 2016 – Sep 2019 |
 
 ## 🛠️ Tech stack
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -73,6 +86,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Memaguer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memaguer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Barrientos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-barrientos-g/)
 [![Email](https://img.shields.io/badge/Email-barrientos.memo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrientos.memo@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
