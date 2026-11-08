@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Let's build something together">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .b { animation: slide 10s ease-in-out infinite; }
+    .b2 { animation-duration: 14s; animation-direction: reverse; }
+    @keyframes slide { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-40px); } }
+    @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+  </style>
+  <rect width="1280" height="220" fill="#2F7BFF"/>
+  <rect class="b" x="860" y="-30" width="260" height="260" fill="#5B9BFF"/>
+  <rect class="b b2" x="1040" y="60" width="200" height="200" fill="#1F5FE0"/>
+  <text x="64" y="104" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">Let's build something together.</text>
+  <text x="64" y="156" font-size="26" fill="#EAF2FF">Open to remote roles in SaaS, backend and AI automation.</text>
+</svg>

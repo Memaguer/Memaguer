@@ -1,10 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="t d">
   <title id="t">Guillermo Barrientos</title>
-  <desc id="d">Senior Software Engineer. Node.js, NestJS, Angular, Ionic, SaaS and AI automation.</desc>
-  <rect width="1280" height="360" fill="#0F1417"/>
-  <rect x="980" width="300" height="360" fill="#3DDC97"/>
-  <text x="1130" y="228" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="170" font-weight="800" letter-spacing="-6" fill="#0F1417">GB</text>
-  <text x="64" y="162" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2" fill="#F1F5F2">Guillermo Barrientos</text>
-  <text x="64" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#3DDC97">Senior Software Engineer</text>
-  <text x="64" y="282" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#A7B4AE">Node.js, NestJS, Angular, Ionic. SaaS and AI automation.</text>
+  <desc id="d">Senior Software Engineer. Node.js, NestJS, Angular, Ionic, SaaS and AI automation. Open to remote roles.</desc>
+  <defs>
+    <clipPath id="panel"><rect x="940" width="340" height="400"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .role { opacity: 0; }
+    .r1 { opacity: 1; }
+    .role { animation: cycle 12s infinite; }
+    .r2 { animation-delay: 3s; } .r3 { animation-delay: 6s; } .r4 { animation-delay: 9s; }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(10px); }
+      4% { opacity: 1; transform: translateY(0); }
+      22% { opacity: 1; transform: translateY(0); }
+      26% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
+    .r1 { animation-name: cycle1; }
+    @keyframes cycle1 {
+      0% { opacity: 1; transform: translateY(0); }
+      22% { opacity: 1; transform: translateY(0); }
+      26% { opacity: 0; transform: translateY(-10px); }
+      96% { opacity: 0; transform: translateY(10px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    .f1 { animation: drift 9s ease-in-out infinite; }
+    .f2 { animation: drift 12s ease-in-out infinite reverse; }
+    .f3 { animation: drift 7s ease-in-out infinite; }
+    @keyframes drift { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-22px); } }
+    .dot { animation: pulse 2s ease-in-out infinite; transform-origin: 70px 351px; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.6); } }
+    @media (prefers-reduced-motion: reduce) { .role, .f1, .f2, .f3, .dot { animation: none; } }
+  </style>
+  <rect width="1280" height="400" fill="#0A1628"/>
+  <rect x="940" width="340" height="400" fill="#2F7BFF"/>
+  <g clip-path="url(#panel)">
+    <rect class="f1" x="960" y="250" width="120" height="120" fill="#5B9BFF"/>
+    <rect class="f2" x="1120" y="40" width="90" height="90" fill="#1F5FE0"/>
+    <circle class="f3" cx="1215" cy="300" r="42" fill="#8DBBFF"/>
+  </g>
+  <text x="1110" y="244" text-anchor="middle" font-size="190" font-weight="800" letter-spacing="-8" fill="#FFFFFF">GB</text>
+  <text x="64" y="160" font-size="78" font-weight="800" letter-spacing="-2" fill="#EAF2FF">Guillermo Barrientos</text>
+  <g font-size="38" font-weight="600" fill="#6CB4FF">
+    <text class="role r1" x="64" y="228">Senior Software Engineer</text>
+    <text class="role r2" x="64" y="228">Node.js and NestJS backends</text>
+    <text class="role r3" x="64" y="228">Angular and Ionic apps</text>
+    <text class="role r4" x="64" y="228">SaaS and AI automation</text>
+  </g>
+  <text x="64" y="290" font-size="24" fill="#9DB4D6">9+ years building web, mobile and backend products. Mexico.</text>
+  <circle class="dot" cx="70" cy="351" r="8" fill="#6CB4FF"/>
+  <text x="92" y="359" font-size="24" font-weight="600" fill="#EAF2FF">Open to remote roles</text>
 </svg>
